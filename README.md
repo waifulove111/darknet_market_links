@@ -6,8 +6,8 @@
   <br>
 </h1>
 <br>
-View More At
 <p align="center">
+  View More At <br>
   | <a href="https://darknetmarketlinks.xyz">Darknet Market Links</a> |
   | <a href="https://vicecitymarket.link">Vice City Market Link</a> |
   | <a href="https://getmonopoly.link">Monopoly Market Link</a> |
