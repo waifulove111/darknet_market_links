@@ -1,15 +1,15 @@
 <h1 align="center">
   <br>
-  <a href="http://darknetmarketlinks.xyz"><img src="https://i.imgur.com/o7OFz1K.jpeg" alt="Darknet Market Links" height="500" width="500"></a>
+  <a href="http://darknetmarketlinks.xyz"><img src="https://i.imgur.com/o7OFz1K.jpeg" alt="Darknet Market Links" height="500" width="650"></a>
   <br>
   Darknet Market Links, White House Market, Monopoly Market, Vice City Market and More!
   <br>
 </h1>
 
 <p align="center">
-  <a href="https://darknetmarketlinks.xyz">Darknet Market Links</a>
-  <a href="https://vicecitymarket.link">Vice City Market Link</a>
-   <a href="https://getmonopoly.link">Monopoly Market Link</a>
+  | <a href="https://darknetmarketlinks.xyz">Darknet Market Links</a> |
+  | <a href="https://vicecitymarket.link">Vice City Market Link</a> |
+  | <a href="https://getmonopoly.link">Monopoly Market Link</a> |
 </p>
 
 | Website  | Link  |
