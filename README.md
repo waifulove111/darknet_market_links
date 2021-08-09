@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="http://darknetmarketlinks.xyz"><img src="https://i.imgur.com/o7OFz1K.jpeg" alt="Darknet Market Links" width="200" height="200"></a>
+  <a href="http://darknetmarketlinks.xyz"><img src="https://i.imgur.com/o7OFz1K.jpeg" alt="Darknet Market Links"></a>
   <br>
   Darknet Market Links, White House Market, Monopoly Market, Vice City Market and More!
   <br>
