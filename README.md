@@ -2,10 +2,11 @@
   <br>
   <a href="http://darknetmarketlinks.xyz"><img src="https://i.imgur.com/o7OFz1K.jpeg" alt="Darknet Market Links" height="500" width="650"></a>
   <br>
-  Darknet Market Links, White House Market, Monopoly Market, Vice City Market and More!
+  Darknet Market Links
   <br>
 </h1>
-
+<br>
+View More At
 <p align="center">
   | <a href="https://darknetmarketlinks.xyz">Darknet Market Links</a> |
   | <a href="https://vicecitymarket.link">Vice City Market Link</a> |
